@@ -1,2 +1,2 @@
-# C-programming-Lab
+# C-Programming-Lab
 PF Lab Task
